@@ -1,0 +1,18 @@
+/* STYLING FOR GALLERY PAGE INCLUDING THE TABLE USED IN THE LAYOUT*/
+img
+{
+height:260px;
+width:330px;
+border:#000000;
+}
+
+table 
+{
+width:75%;
+text-align:center;
+padding:5px;
+background:#666666;
+font-size:0.8em;
+font-style:italic;
+}
+
